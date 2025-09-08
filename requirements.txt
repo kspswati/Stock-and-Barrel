@@ -1,0 +1,6 @@
+pandas
+numpy
+sqlalchemy
+matplotlib
+seaborn
+openpyxl   # for reading/writing Excel files

@@ -1,0 +1,36 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+db/*.db
+inventory.db
+
+# Data files
+data/*.csv
+data/*.xlsx
+
+# Outputs
+outputs/*.csv
+outputs/*.xlsx
+outputs/figures/
+
+# Logs
+*.log
+logs/
