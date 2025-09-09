@@ -1,5 +1,6 @@
 # Stock & Barrel 📊
 *Inventory Management & Vendor Performance Analysis System*
+*Link for the Dashboard:* https://lookerstudio.google.com/s/kyzocyZK8BM
 
 ## About the Project
 
